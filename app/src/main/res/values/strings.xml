@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">WifiStress Application</string>
+    <string-array name="test_items">
+        <item>On/Off Stress</item>
+        <item>Suspend/Resume Stress</item>
+        <item>Ping Stress</item>
+        <item>Hotspot On/Off Stress</item>
+    </string-array>
+    <string name="wifistate_enabling">Enabling</string>
+    <string name="wifistate_enabled">Enabled</string>
+    <string name="wifistate_disabling">Disabling</string>
+    <string name="wifistate_disabled">Disabled</string>
+    <string name="wifistate_unknown">Unknown</string>
+    <string name="networkstate_authenticating">Authenticating</string>
+    <string name="networkstate_blocked">Blocked</string>
+    <string name="networkstate_captive_portal_check">Captive Portal Check</string>
+    <string name="networkstate_connected">Connected</string>
+    <string name="networkstate_conneecting">Connecting</string>
+    <string name="networkstate_disconnected">Disconnected</string>
+    <string name="networkstate_disconnecting">Disconnecting</string>
+    <string name="networkstate_failed">Failed</string>
+    <string name="networkstate_idle">Idle</string>
+    <string name="networkstate_obtaining_ipaddr">Obtaining IP Address</string>
+    <string name="networkstate_scanning">Scanning</string>
+    <string name="networkstate_suspended">Suspended</string>
+    <string name="networkstate_verifying_poor_link">Verifying Poor Link</string>
+</resources>
